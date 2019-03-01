@@ -1,5 +1,5 @@
 {
-    "name": "pct/php-coding-standard",
+    "name": "perceptiontech/php-coding-standard",
     "description": "PHP coding standard to use with PHPCodeSniffer",
     "type": "phpcodesniffer-standard",
     "license": "MIT",

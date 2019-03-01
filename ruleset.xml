@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="Pct">
+    <description>The Perception coding standard.</description>
+    <rule ref="Symfony">
+        <exclude name="Symfony.Commenting.License" />
+        <exclude name="Symfony.Functions.Arguments" />
+    </rule>
+</ruleset>

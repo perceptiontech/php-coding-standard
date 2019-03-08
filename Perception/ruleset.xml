@@ -4,5 +4,6 @@
     <rule ref="Symfony">
         <exclude name="Symfony.Commenting.License" />
         <exclude name="Symfony.Functions.Arguments" />
+        <exclude name="Symfony.NamingConventions.ValidClassName" />
     </rule>
 </ruleset>
